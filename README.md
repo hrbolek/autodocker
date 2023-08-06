@@ -6,7 +6,7 @@ First one is github workflow run. The workflow publish docker image on dorcker h
 Second one is `pre-commit` tool which guards from too early commit into repository.
 See https://pre-commit.com/
 
-`pre-commit install`` :)
+`pre-commit install` 😀
 
 before you make a commit run
 
